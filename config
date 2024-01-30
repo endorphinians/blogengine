@@ -3,7 +3,7 @@ allow_custom_titles   : true
 allow_ssc_validation  : true
 
 // Bufferwall token
-token                 : YOUR_TOKEN_TO_BUFFERWALL
+token                 : 1706497430896zyva5p125tfy
 tiles                 : true
 
 // Language: en, de, etc..
@@ -12,9 +12,9 @@ language              :
 url                   : https://template.bufferwall.com
 // description           : CUSTOM DESCRIPTION IN RIGHT PANEL (otherwise will be copied from Bufferwall profile)
 
-facebook              : https://www.facebook.com/totaljs.web.framework/
-twitter               : https://twitter.com/totalframework
-github                : https://github.com/totaljs/
-linkedin              : https://www.linkedin.com/groups/8109884/
+facebook              : 
+twitter               : 
+github                : https://github.com/endorphinians
+linkedin              : 
 youtube               :
 instagram             :

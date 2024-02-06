@@ -6,11 +6,11 @@ allow_ssc_validation  : true
 token                 : 1706497430896zyva5p125tfy
 tiles                 : true
 
-// Language: en, de, etc..
-language              :
+// Language: en
+language              : en
 
 url                   : https://template.bufferwall.com
-// description           : CUSTOM DESCRIPTION IN RIGHT PANEL (otherwise will be copied from Bufferwall profile)
+// description           : just my world
 
 facebook              : 
 twitter               : 
